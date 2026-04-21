@@ -1,7 +1,6 @@
 # Saul Harwin
 
 - **saulharwin@gmail.com** 
-- **[07981026988](tel:07981026988)**
 - **[linkedin.com/in/saulharwin/](https://www.linkedin.com/in/saulharwin/)**
 - **[Portfolio Website](https://saulharwin.com/)**
 
