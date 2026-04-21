@@ -1,8 +1,4 @@
-# Saul Harwin
-
-- **[Portfolio Website](https://saulharwin.com/)**
-- **saulharwin@gmail.com** 
-- **[linkedin.com/in/saulharwin/](https://www.linkedin.com/in/saulharwin/)**
+<h1> Saul Harwin</h1>
 
 ## About Me
 
@@ -19,7 +15,13 @@ can continue learning from experienced developers, contribute to meaningful proj
 at the intersection of science and technology, particularly in data science, machine learning, analytics, and
 AI. If you’re working on something exciting in that space, I’d love to connect.
 
-### :hearts: **Favourite Projects**
+<h2>Data Scientist and Software Engineer</h2>
+
+- **[Portfolio Website](https://saulharwin.com/)**
+- **saulharwin@gmail.com** 
+- **[linkedin.com/in/saulharwin/](https://www.linkedin.com/in/saulharwin/)**
+
+<h3> :hearts: <bold>Favourite Projects</bold></h3>
 
 - **[PINNs vs Data Driven Neural Network for Fluid Flow](https://saulharwin.com/projects/pinns-vs-data-driven-neural-networks-for-fluid-flow.html)**
 - **[Weak Gravitational Lensing Analysis](https://saulharwin.com/projects/weak-gravitational-lensing.html)**
