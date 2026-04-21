@@ -1,8 +1,8 @@
 # Saul Harwin
 
+- **[Portfolio Website](https://saulharwin.com/)**
 - **saulharwin@gmail.com** 
 - **[linkedin.com/in/saulharwin/](https://www.linkedin.com/in/saulharwin/)**
-- **[Portfolio Website](https://saulharwin.com/)**
 
 ## About Me
 
